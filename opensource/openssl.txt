@@ -1,0 +1,2 @@
+url: 	https://github.com/openssl/openssl.git
+branch:	OPENSSL_1_0_2-stable
