@@ -1,0 +1,4 @@
+LIBCURL
+dll:
+slib: #define CURL_STATICLIB
+
